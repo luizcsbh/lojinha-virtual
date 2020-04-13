@@ -3,12 +3,12 @@
 	"lang" : "Portuguese",
 	"name" : ".: Loja Virtual :.",
 	"scope" : "/lojinha-virtual/",
-	"display" : "browser",
+	"display" : "standalone",
 	"start_url" : "https://luizcsbh.github.io/lojinha-virtual/",
 	"short_name" : ".: Loja Virtual",
 	"theme_color" : "transparent",
 	"description" : "Loja Virtual Gama Academy",
-	"orientation" : "natural",
+	"orientation" : "any",
 	"background_color" : "transparent",
 	"related_applications" : [],
 	"prefer_related_applications" : false,
@@ -90,5 +90,6 @@
 			"sizes": "76x76"
 		}],
 	"url" : "https://luizcsbh.github.io/lojinha-virtual/",
-	"screenshots" : []
+	"screenshots" : [],
+	"generated" : "true"
 }
