@@ -25,50 +25,7 @@
 			"src": "imagens/loja.png",
 			"sizes": "1240x600"
 		},
-		{
-			"src": "imagens/loja.png",
-			"sizes": "300x300"
-		},
-		{
-			"src": "imagens/loja.png",
-			"sizes": "150x150"
-		},
-		{
-			"src": "imagens/loja.png",
-			"sizes": "88x88"
-		},
-		{
-			"src": "imagens/loja.png",
-			"sizes": "24x24"
-        },
-        {
-			"src": "imagens/presentblue.png",
-			"sizes": "24x24"
-        },
-        {
-			"src": "imagens/presentred.png",
-			"sizes": "24x24"
-        },
-        {
-			"src": "imagens/presentgreen.png",
-			"sizes": "24x24"
-		},
-		{
-			"src": "imagens/presentblue.png",
-			"sizes": "50x50"
-        },
-        {
-			"src": "imagens/presentred.png",
-			"sizes": "50x50"
-        },
-        {
-			"src": "imagens/presentgreen.png",
-			"sizes": "50x50"
-		},
-		{
-			"src": "imagens/loja.png",
-			"sizes": "50x50"
-		},
+		
 		{
 			"src": "imagens/loja.png",
 			"sizes": "620x300"
