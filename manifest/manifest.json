@@ -4,7 +4,7 @@
 	"name" : ".: Loja Virtual :.",
 	"scope" : "/lojinha-virtual/",
 	"display" : "standalone",
-	"start_url" : "https://luizcsbh.github.io/lojinha-virtual/",
+	"start_url" : "https://luizcsbh.github.io/lojinha-virtual",
 	"short_name" : ".: Loja Virtual",
 	"theme_color" : "transparent",
 	"description" : "Loja Virtual Gama Academy",
@@ -52,6 +52,18 @@
         {
 			"src": "imagens/presentgreen.png",
 			"sizes": "24x24"
+		},
+		{
+			"src": "imagens/presentblue.png",
+			"sizes": "50x50"
+        },
+        {
+			"src": "imagens/presentred.png",
+			"sizes": "50x50"
+        },
+        {
+			"src": "imagens/presentgreen.png",
+			"sizes": "50x50"
 		},
 		{
 			"src": "imagens/loja.png",
