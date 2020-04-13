@@ -40,6 +40,18 @@
 		{
 			"src": "imagens/loja.png",
 			"sizes": "24x24"
+        },
+        {
+			"src": "imagens/presentblue.png",
+			"sizes": "24x24"
+        },
+        {
+			"src": "imagens/presentred.png",
+			"sizes": "24x24"
+        },
+        {
+			"src": "imagens/presentgreen.png",
+			"sizes": "24x24"
 		},
 		{
 			"src": "imagens/loja.png",
